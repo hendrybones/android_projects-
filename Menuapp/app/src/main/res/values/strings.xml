@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menuapp</string>
+    <string name="search">search</string>
+    <string name="error_message">Faild to get results</string>
+</resources>
