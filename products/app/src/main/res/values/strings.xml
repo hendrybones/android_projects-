@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">products</string>
+    <string name="product_image">product image</string>
+    <string name="product_name">product name</string>
+    <string name="product_pic">product_pic</string>
+    <string name="Add_comment">Add comment</string>
+    <string name="share_btn">share_btn</string>
+</resources>
