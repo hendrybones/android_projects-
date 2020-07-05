@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161829383338",
+    "firebase_url": "https://commentapp-aa836.firebaseio.com",
+    "project_id": "commentapp-aa836",
+    "storage_bucket": "commentapp-aa836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161829383338:android:584d564037262cd941b4d3",
+        "android_client_info": {
+          "package_name": "com.example.commentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161829383338-ea2lsqgg08tn28g6in5d0ru0e6uhg7k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.commentapp",
+            "certificate_hash": "8052bfa1b36dd306f1defda27300ed8de9701cef"
+          }
+        },
+        {
+          "client_id": "161829383338-o5erqninqu1gkivmeai7cfh0sc3k4av5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jxgO2th0cwehBwLXmNzpZx9cmTO3OkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161829383338-o5erqninqu1gkivmeai7cfh0sc3k4av5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
