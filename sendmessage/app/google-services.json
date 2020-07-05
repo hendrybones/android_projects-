@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497799060662",
+    "firebase_url": "https://sendmessage-f667d.firebaseio.com",
+    "project_id": "sendmessage-f667d",
+    "storage_bucket": "sendmessage-f667d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497799060662:android:8eb0a0fc765e6e2db35a17",
+        "android_client_info": {
+          "package_name": "com.example.sendmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497799060662-9a4q49e165l0a4krdabiqt1dugrkhik2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sendmessage",
+            "certificate_hash": "8052bfa1b36dd306f1defda27300ed8de9701cef"
+          }
+        },
+        {
+          "client_id": "497799060662-dqsm8cd7e740mnivlqbp2hg7me3enqbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6YNVjKn9CT0ivFYzafSaHvI7HAozc0VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497799060662-dqsm8cd7e740mnivlqbp2hg7me3enqbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
