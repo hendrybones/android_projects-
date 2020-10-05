@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944899916722",
+    "firebase_url": "https://cohen-a5e70.firebaseio.com",
+    "project_id": "cohen-a5e70",
+    "storage_bucket": "cohen-a5e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944899916722:android:59f7205f5a46349ef65aab",
+        "android_client_info": {
+          "package_name": "com.example.cosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944899916722-28b3568mnm1vf87djg6pgsqo86l0p81u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cosapp",
+            "certificate_hash": "8052bfa1b36dd306f1defda27300ed8de9701cef"
+          }
+        },
+        {
+          "client_id": "944899916722-gsb4g8en86st8g4jb3f2rs5kl0rdg4ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sUDSS_T13fH1WR3vC3zSDO7HFZglnbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944899916722-gsb4g8en86st8g4jb3f2rs5kl0rdg4ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

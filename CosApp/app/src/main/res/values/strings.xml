@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CosApp</string>
+    <string name="hint_comment">comment</string>
+    <string name="price_hint">price</string>
+    <string name="description_hint">description</string>
+    <string name="save_menu">save</string>
+    <string name="delete_deal">Delete_deal</string>
+</resources>
