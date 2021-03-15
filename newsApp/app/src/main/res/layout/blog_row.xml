@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:cardcornerRadius="12dp"
+    android:layout_margin="10dp"
+    android:elevation="30dp">
+
+    <LinearLayout
+        android:layout_with="match_parent"
+        android:layout_hieght="248dp"
+        android:orientation="vertical"
+        android:background="#2C2929">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="188dp"
+            android:scaleType="centerCrop"
+            android:id="@+id/post_image"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/post_title"
+            android:text="20dp"
+            android:textColor="#ffff"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/post_desc"
+            android:textSize="20dp"
+            android:textColor="#ffff"
+            android:text="post desc"
+            />
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

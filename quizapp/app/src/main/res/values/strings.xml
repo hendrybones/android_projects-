@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string name="next_word" />
+    <string name="show_definition" />
+</resources>

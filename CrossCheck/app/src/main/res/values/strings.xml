@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cross Check</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="jones">Jones</string>
+    <string name="username">username</string>
+    <string name="githuburl">GithubUrl</string>
+    <string name="profile_pic">Profile Pic</string>
+    <string name="share_btn">share btn</string>
+    <string name="usr_profile">User Profile</string>
+    <string name="html_url">HTML url</string>
+</resources>

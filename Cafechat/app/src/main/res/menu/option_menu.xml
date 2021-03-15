@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/friends_option"
+        android:title="Find friends"
+        app:showAsAction="never"
+
+        />
+    <item android:id="@+id/setting_option"
+        android:title="setting"
+        app:showAsAction="never"
+
+        />
+    <item android:id="@+id/logout_option"
+        android:title="logout"
+        app:showAsAction="never"
+
+        />
+
+
+</menu>
